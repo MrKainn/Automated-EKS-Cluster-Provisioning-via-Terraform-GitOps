@@ -1,5 +1,7 @@
 # Appscrip-Assignment
-This project provisions an Amazon EKS cluster using Terraform, deploys an NGINX web application via Kubernetes manifests, manages deployments using Argo CD (GitOps), and optionally exposes the app via Ingress and a custom domain.
+
+This project demonstrates the end-to-end provisioning of an Amazon EKS cluster using Terraform and deployment of a containerized NGINX application via Kubernetes manifests. It integrates GitOps using ArgoCD for continuous deployment and includes optional Ingress setup with Route 53 and a custom domain. The entire workflow is automated and infrastructure is managed as code for reproducibility and scalability.
+
 ## Install all Services required
 Change the working directory to terraform/Scripts
 ```
