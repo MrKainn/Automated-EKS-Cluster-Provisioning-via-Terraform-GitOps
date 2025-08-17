@@ -111,7 +111,9 @@ This README covers all the commands used to provisions an Amazon EKS cluster usi
 ### 📧 Maintained By
 #### KARTIK KAIN
 #### Analyst, HCLTech | Cloud & DevOps Engineer
-[LinkedIN](https://www.linkein.com/in/kartikkain) | [GitHub](https://github.com/MrKainn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikkain/)
+   [![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/MrKainn/)
+
 
 
 
