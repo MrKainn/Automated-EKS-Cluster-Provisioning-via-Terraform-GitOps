@@ -1,4 +1,4 @@
-# Appscrip-Assignment
+# Cloud-Native Kubernetes Deployment with EKS, Terraform & ArgoCD (GitOps)-Assignment
 
 This project demonstrates the end-to-end provisioning of an Amazon EKS cluster using Terraform and deployment of a containerized NGINX application via Kubernetes manifests. It integrates GitOps using ArgoCD for continuous deployment and includes optional Ingress setup with Route 53 and a custom domain. The entire workflow is automated and infrastructure is managed as code for reproducibility and scalability.
 
